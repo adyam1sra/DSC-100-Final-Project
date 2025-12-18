@@ -1,5 +1,7 @@
 # Can Taylor Swift songs be sorted into albums based on their audio features?
 
+Adya Misra
+
 # Introduction
 The goal of this project is to determine whether Spotify audio features can be used to classify which album a Taylor Swift song belongs to. Each album represents a distinct musical era, and this project investigates whether those differences are reflected in measurable audio characteristics.
 
