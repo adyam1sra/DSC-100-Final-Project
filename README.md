@@ -37,3 +37,8 @@ To investigate the research question, the project follows the standard data scie
 - Separability: Visual clustering via PCA showed that distinct genres are measier for the model to isolate than similar eras.
 - Limitations: Audio features alone lack the lyrical context that define Taylor's albums.
 
+# Conclusion
+
+This project explored whether Spotify audio features can be used to sort Taylor Swift songs into her albums. While album classification is challenging due to stylistic overlap, both models demonstrated that audio features contain meaningful information about musical eras.
+
+Regularized dimensionality reduction using PCA slightly improved model stability, suggesting that feature correlation plays a role in classification performance. Future work could include incorporating lyrical features or comparing Taylor Swift’s albums to those of other artists.
