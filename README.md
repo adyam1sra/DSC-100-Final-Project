@@ -29,7 +29,7 @@ To investigate the research question, the project follows the standard data scie
 
 - Exploratory Data Analysis (EDA): Visualizing feature distributions across albums using Seaborn boxplots and correlation heatmaps.
 - Dimensionality Reduction: Using Principal Component Analysis (PCA) to visualize song clusters in 2D space.
-- Classification Models: (1) Multinomial Logistic Regression:Serving as a linear baseline for multi-album classification. (2) PCA + Logistic Regression Pipeline: Testing if reducing feature noise improves accuracy.
+- Classification Models: (1) Multinomial Logistic Regression: Serving as a linear baseline for classification and (2) PCA + Logistic Regression Pipeline: Testing if reducing feature noise improves accuracy.
 
 # Results
 
